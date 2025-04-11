@@ -22,7 +22,7 @@ I am a cybersecurity graduate student at The George Washington University (GWU) 
 - Endpoint Security: Symantec Antivirus, McAfee Antivirus.
 - Network Tools: Wireshark, Bluecoat Proxy, Trend Micro (DLP).
 - PKI & SSL Certificate Lifecycle Management: DigiCert, Sectigo.
-- Microsoft Suite & Defender, Google Workspace.
+- Microsoft Suite & Defender, Google Cloud Security Command Center.
 
 #### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
