@@ -98,10 +98,10 @@ I am a cybersecurity graduate student at The George Washington University (GWU) 
 
 - **Email**: [naitik.shetty@gwu.edu](mailto:naitik.shetty@gwu.edu)
 - **Phone**: 571-259-6726
-- **LinkedIn**: [Naitik Shetty](#)  
-- **Handshake**: [Link](#)  
-- **GitHub**: [Link](#)
-- *Location*: Arlington, VA
+- **LinkedIn**: [Naitik Shetty](https://www.linkedin.com/in/naitik-shetty-37aa04144/)  
+- **Handshake**: [Link](https://gwu.joinhandshake.com/profiles/xunm6s)  
+- **GitHub**: [Link](https://github.com/naitikshetty88)
+- *Location*: Arlington, VA - 22206
 
 ---
 
